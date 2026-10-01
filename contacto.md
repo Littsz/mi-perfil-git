@@ -1,4 +1,7 @@
 # Contacto
 
 ## Correo
-tu_correo@ejemplo.com
+israemoxito@gmail.com
+
+## GitHub
+Littszz

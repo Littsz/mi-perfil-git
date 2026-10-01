@@ -5,3 +5,7 @@ Base de Datos
 
 ## ¿Por qué me interesa?
 Me interesa porque es divertida en cierto punto 
+
+##¿Qué necesito aprender primero?
+Lo básico supongo
+

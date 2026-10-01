@@ -1,4 +1,7 @@
 # ¿Qué tecnología IT quiero aprender?
 
 ## ¿Qué tecnología es?
-Aquí escribes tu respuesta.
+Base de Datos
+
+## ¿Por qué me interesa?
+Me interesa porque es divertida en cierto punto 
